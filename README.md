@@ -1,3 +1,3 @@
 # good-terraria-guide
-Download it if you really want to.
-Did I mention it's a cool html file?
+A good Terraria guide in a cool html file. Download it if you really want to. Did I mention it's a cool html file?
+
